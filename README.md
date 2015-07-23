@@ -8,32 +8,47 @@
 * [An Introduction to You](http://randsinrepose.com/archives/an-introduction-to-you/) — You are a complex concept
 * [The Process Myth](http://randsinrepose.com/archives/the-process-myth/) — Insist on understanding
 
+# Managing Crises
+* [The Crisis and the Creative](http://randsinrepose.com/archives/the-crisis-and-the-creative/) — Investments in an uncertain future
+* [A Deep Breath](http://randsinrepose.com/archives/a-deep-breath/) — A deliberate moment of consideration
+
 # Managing Humans
 * [Managing Humans](http://managinghumans.com) — Book
 * [The Rands Test](http://randsinrepose.com/archives/the-rands-test/) — Start here
+* [A Toxic Paradox](http://randsinrepose.com/archives/a-toxic-paradox/) — Real change is hard
+* [A Disclosure](http://randsinrepose.com/archives/a-disclosure/) — Trust so you can scale
+* [The Larry Test](http://randsinrepose.com/archives/the-larry-test/) — Are we done?
 * [Chaotic Beautiful Snowflakes](http://randsinrepose.com/archives/chaotic-beautiful-snowflakes/) — And that’s just you
-* [I Have a Hunch](http://randsinrepose.com/archives/i-have-a-hunch/) — We miss engineering
-* [Seven Plus or Minus Three](http://randsinrepose.com/archives/seven-plus-or-minus-three/) — Avoidable high fructose random shit minutes
-* [The Old Guard](http://randsinrepose.com/archives/the-old-guard/) — Comfortable chaos into legitimate chaos
 * [The Wolf](http://randsinrepose.com/archives/the-wolf/) — Dictating their own terms
-* [The Diving Save](http://randsinrepose.com/archives/the-diving-save/) — Do you really want to do this?
-* [Friction, Pain, and Failure](http://randsinrepose.com/archives/friction-pain-and-failure/) — Then consequences will become obvious
 * [Entropy Crushers](http://randsinrepose.com/archives/entropy-crushers/) — Do you want to be an engineer?
 
 # 1:1s
 * [The Update, The Vent, and The Disaster](http://randsinrepose.com/archives/the-update-the-vent-and-the-disaster/) — A distinct lack of drama
-* [Triggers](http://randsinrepose.com/archives/triggers/) — Blind, piercing rage
+* [Friction, Pain, and Failure](http://randsinrepose.com/archives/friction-pain-and-failure/) — Then consequences will become obvious
+* [You’re Not Listening](http://randsinrepose.com/archives/youre-not-listening/) — The world knows a lot more than you
 * [Lost in Translation](http://randsinrepose.com/archives/lost-in-translation/) — Learn schmearn. I'm a genius.
+* [Triggers](http://randsinrepose.com/archives/triggers/) — Blind, piercing rage
+* [No Surprises](http://randsinrepose.com/archives/no-surprises/) — What you need to do next
 
 # Culture, Teams, Mentorship
+* [Someone is Coming to Eat You](http://randsinrepose.com/archives/someone-is-coming-to-eat-you/) — Faster than you
+* [I Have a Hunch](http://randsinrepose.com/archives/i-have-a-hunch/) — We miss engineering
+* [Seven Plus or Minus Three](http://randsinrepose.com/archives/seven-plus-or-minus-three/) — Avoidable high fructose random shit minutes
+* [The Old Guard](http://randsinrepose.com/archives/the-old-guard/) — Comfortable chaos into legitimate chaos
+* [The Culture Chart](http://randsinrepose.com/archives/the-culture-chart/) — We must not ship crap
 * [The Mentor Manifesto](http://www.davidgcohen.com/2011/08/28/the-mentor-manifesto/)
 * [Microaggression and Management](https://web.archive.org/web/20140405220327/https://medium.com/about-work/65d4740f7a2f)
 * [Some notes on culture](http://ataussig.com/post/32402969166/some-notes-on-culture)
 * [What Google Taught Me About Scaling Engineering Teams](http://www.theeffectiveengineer.com/blog/what-i-learned-from-googles-engineering-culture)
 
 # Hiring
-* [Wanted](http://randsinrepose.com/archives/wanted/) — Hire for your career
+* [A Glimpse and a Hook](http://randsinrepose.com/archives/a-glimpse-and-a-hook/) — You've got 30 seconds
+* [A Brief Glimpse](http://randsinrepose.com/archives/a-brief-glimpse/) — A sea of mediocre resumes
+* [The Sanity Check](http://randsinrepose.com/archives/the-sanity-chec/) — Stalk your future job
+* [Ninety Days](http://randsinrepose.com/archives/ninety-days/) — Say something really stupid
 * [The Great (Incorrect) Disappointment](http://randsinrepose.com/archives/the-great-incorrect-disappointment/) — People don’t believe what they have not seen
+* [Wanted](http://randsinrepose.com/archives/wanted/) — Hire for your career
+* [The Diving Save](http://randsinrepose.com/archives/the-diving-save/) — Do you really want to do this?
 * [This is why you never end up hiring good developers](http://qz.com/258066/this-is-why-you-dont-hire-good-developers/)
 
 # Meetings
