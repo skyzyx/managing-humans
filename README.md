@@ -10,7 +10,7 @@
 
 # Managing Humans
 * [Managing Humans](http://managinghumans.com) — Book
-* [Triggers](http://randsinrepose.com/archives/triggers/) — Blind, piercing rage
+* [The Rands Test](http://randsinrepose.com/archives/the-rands-test/) — Start here
 * [Chaotic Beautiful Snowflakes](http://randsinrepose.com/archives/chaotic-beautiful-snowflakes/) — And that’s just you
 * [I Have a Hunch](http://randsinrepose.com/archives/i-have-a-hunch/) — We miss engineering
 * [Seven Plus or Minus Three](http://randsinrepose.com/archives/seven-plus-or-minus-three/) — Avoidable high fructose random shit minutes
@@ -19,6 +19,11 @@
 * [The Diving Save](http://randsinrepose.com/archives/the-diving-save/) — Do you really want to do this?
 * [Friction, Pain, and Failure](http://randsinrepose.com/archives/friction-pain-and-failure/) — Then consequences will become obvious
 * [Entropy Crushers](http://randsinrepose.com/archives/entropy-crushers/) — Do you want to be an engineer?
+
+# 1:1s
+* [The Update, The Vent, and The Disaster](http://randsinrepose.com/archives/the-update-the-vent-and-the-disaster/) — A distinct lack of drama
+* [Triggers](http://randsinrepose.com/archives/triggers/) — Blind, piercing rage
+* [Lost in Translation](http://randsinrepose.com/archives/lost-in-translation/) — Learn schmearn. I'm a genius.
 
 # Culture, Teams, Mentorship
 * [The Mentor Manifesto](http://www.davidgcohen.com/2011/08/28/the-mentor-manifesto/)
@@ -34,3 +39,5 @@
 # Meetings
 * [How to Run a Meeting](http://randsinrepose.com/archives/how-to-run-a-meeting/) — Rules so people know when to talk
 * [Bits, Features, and Truth](http://randsinrepose.com/archives/bits-features-and-truth/) — Gives those forces a proper name
+* [The Twinge](http://randsinrepose.com/archives/the-twinge/) — Amorphous moments of clarity
+* [The Screw-Me Scenario](http://randsinrepose.com/archives/the-screwme-scenario/) — Paranoia is a lot of work
