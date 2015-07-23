@@ -20,10 +20,17 @@
 * [Friction, Pain, and Failure](http://randsinrepose.com/archives/friction-pain-and-failure/) — Then consequences will become obvious
 * [Entropy Crushers](http://randsinrepose.com/archives/entropy-crushers/) — Do you want to be an engineer?
 
-# Teams and Mentorship
-* [The Great (Incorrect) Disappointment](http://randsinrepose.com/archives/the-great-incorrect-disappointment/) — People don’t believe what they have not seen
+# Culture, Teams, Mentorship
 * [The Mentor Manifesto](http://www.davidgcohen.com/2011/08/28/the-mentor-manifesto/)
 * [Microaggression and Management](https://web.archive.org/web/20140405220327/https://medium.com/about-work/65d4740f7a2f)
 * [Some notes on culture](http://ataussig.com/post/32402969166/some-notes-on-culture)
 * [What Google Taught Me About Scaling Engineering Teams](http://www.theeffectiveengineer.com/blog/what-i-learned-from-googles-engineering-culture)
+
+# Hiring
+* [Wanted](http://randsinrepose.com/archives/wanted/) — Hire for your career
+* [The Great (Incorrect) Disappointment](http://randsinrepose.com/archives/the-great-incorrect-disappointment/) — People don’t believe what they have not seen
 * [This is why you never end up hiring good developers](http://qz.com/258066/this-is-why-you-dont-hire-good-developers/)
+
+# Meetings
+* [How to Run a Meeting](http://randsinrepose.com/archives/how-to-run-a-meeting/) — Rules so people know when to talk
+* [Bits, Features, and Truth](http://randsinrepose.com/archives/bits-features-and-truth/) — Gives those forces a proper name
