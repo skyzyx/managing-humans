@@ -8,10 +8,6 @@
 * [An Introduction to You](http://randsinrepose.com/archives/an-introduction-to-you/) — You are a complex concept
 * [The Process Myth](http://randsinrepose.com/archives/the-process-myth/) — Insist on understanding
 
-# Managing Crises
-* [The Crisis and the Creative](http://randsinrepose.com/archives/the-crisis-and-the-creative/) — Investments in an uncertain future
-* [A Deep Breath](http://randsinrepose.com/archives/a-deep-breath/) — A deliberate moment of consideration
-
 # Managing Humans
 * [Managing Humans](http://managinghumans.com) — Book
 * [The Rands Test](http://randsinrepose.com/archives/the-rands-test/) — Start here
@@ -56,3 +52,7 @@
 * [Bits, Features, and Truth](http://randsinrepose.com/archives/bits-features-and-truth/) — Gives those forces a proper name
 * [The Twinge](http://randsinrepose.com/archives/the-twinge/) — Amorphous moments of clarity
 * [The Screw-Me Scenario](http://randsinrepose.com/archives/the-screwme-scenario/) — Paranoia is a lot of work
+
+# Managing Crises
+* [The Crisis and the Creative](http://randsinrepose.com/archives/the-crisis-and-the-creative/) — Investments in an uncertain future
+* [A Deep Breath](http://randsinrepose.com/archives/a-deep-breath/) — A deliberate moment of consideration
