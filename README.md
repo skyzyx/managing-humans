@@ -37,7 +37,7 @@
 * [The Old Guard](http://randsinrepose.com/archives/the-old-guard/) — Comfortable chaos into legitimate chaos
 * [The Culture Chart](http://randsinrepose.com/archives/the-culture-chart/) — We must not ship crap
 * [Secret Titles](http://randsinrepose.com/archives/secret-titles/) — Osmosis hallway guy
-* * [The Mentor Manifesto](http://www.davidgcohen.com/2011/08/28/the-mentor-manifesto/)
+* [The Mentor Manifesto](http://www.davidgcohen.com/2011/08/28/the-mentor-manifesto/)
 * [Microaggression and Management](https://web.archive.org/web/20140405220327/https://medium.com/about-work/65d4740f7a2f)
 * [Some notes on culture](http://ataussig.com/post/32402969166/some-notes-on-culture)
 * [What Google Taught Me About Scaling Engineering Teams](http://www.theeffectiveengineer.com/blog/what-i-learned-from-googles-engineering-culture)
