@@ -21,6 +21,7 @@
 * [Chaotic Beautiful Snowflakes](http://randsinrepose.com/archives/chaotic-beautiful-snowflakes/) — And that’s just you
 * [Entropy Crushers](http://randsinrepose.com/archives/entropy-crushers/) — Do you want to be an engineer?
 * [The Wolf](http://randsinrepose.com/archives/the-wolf/) — Dictating their own terms
+* [Shields Down](http://randsinrepose.com/archives/shields-down/) — Happy people don’t leave jobs they love
 
 # 1:1s
 * [The Update, The Vent, and The Disaster](http://randsinrepose.com/archives/the-update-the-vent-and-the-disaster/) — A distinct lack of drama
