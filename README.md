@@ -22,6 +22,7 @@
 * [Entropy Crushers](http://randsinrepose.com/archives/entropy-crushers/) — Do you want to be an engineer?
 * [The Wolf](http://randsinrepose.com/archives/the-wolf/) — Dictating their own terms
 * [Shields Down](http://randsinrepose.com/archives/shields-down/) — Happy people don’t leave jobs they love
+* [Why we don’t speak up at work](https://blog.knowyourcompany.com/why-we-don-t-speak-up-at-work-94abeb1c8f36#.jtmc1os41)
 
 # 1:1s
 * [The Update, The Vent, and The Disaster](http://randsinrepose.com/archives/the-update-the-vent-and-the-disaster/) — A distinct lack of drama
