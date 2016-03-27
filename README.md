@@ -1,14 +1,14 @@
 # Being Geek
 * [Being Geek](http://beinggeek.com) — Book
-* [Stables and Volatiles](http://randsinrepose.com/archives/stables-and-volatiles/) — Take crazy risks
-* [Busy is an Addiction](http://randsinrepose.com/archives/busy-is-an-addiction/) — The dubious value of being busy
-* [An Ideal Conversation](http://randsinrepose.com/archives/an-ideal-conversation/) — Predicting the social weather
-* [The Song of the Introvert](http://randsinrepose.com/archives/the-song-of-the-introvert/) — You are new data
-* [Infinite State](http://randsinrepose.com/archives/infinite-state/) — The absolute best kind of state out there
-* [An Introduction to You](http://randsinrepose.com/archives/an-introduction-to-you/) — You are a complex concept
-* [The Process Myth](http://randsinrepose.com/archives/the-process-myth/) — Insist on understanding
-* [Free Electron](http://randsinrepose.com/archives/free-electron/) — The single most productive engineer
-* [We’re Doomed](http://randsinrepose.com/archives/were-doomed/) — Software development inflection points
+* [Stables and Volatiles](http://randsinrepose.com/archives/stables-and-volatiles/) — Take crazy risks ([cache](https://www.evernote.com/l/ADIjfToNIQVD45W6tXvf8piOmIaVtabK8II))
+* [Busy is an Addiction](http://randsinrepose.com/archives/busy-is-an-addiction/) — The dubious value of being busy ([cache](https://www.evernote.com/l/ADJ7WnLU6jVMW4PQRaH7_HtylnNmntb_qnQ))
+* [An Ideal Conversation](http://randsinrepose.com/archives/an-ideal-conversation/) — Predicting the social weather ([cache](https://www.evernote.com/l/ADJNI2amUyBMu6JuymR4kgMueHoeC8wt608))
+* [The Song of the Introvert](http://randsinrepose.com/archives/the-song-of-the-introvert/) — You are new data ([cache](https://www.evernote.com/l/ADJoNl26JhhEPYOYZ-9TtXCTje2Owl-po0U))
+* [Infinite State](http://randsinrepose.com/archives/infinite-state/) — The absolute best kind of state out there ([cache](https://www.evernote.com/l/ADIlB5peSwFHzZVLZzECEq1uX_-uk_R2mZ0))
+* [An Introduction to You](http://randsinrepose.com/archives/an-introduction-to-you/) — You are a complex concept ([cache](https://www.evernote.com/l/ADK5FvHHwKBHFa6zGWxy2HjFgXljfgyshvk))
+* [The Process Myth](http://randsinrepose.com/archives/the-process-myth/) — Insist on understanding ([cache](https://www.evernote.com/l/ADKmp1tAVQ5OZZ8FnhNT4lJ-3AXHPemp5YU))
+* [Free Electron](http://randsinrepose.com/archives/free-electron/) — The single most productive engineer ([cache](https://www.evernote.com/l/ADI8MRkhgmRMqpwoVupJd4qVOhiWuvNta3I))
+* [We’re Doomed](http://randsinrepose.com/archives/were-doomed/) — Software development inflection points ([cache](https://www.evernote.com/l/ADK7syTUsoZBzZxHvMIMm1I0K6q3KEJLiwM))
 
 # Managing Humans
 * [Managing Humans](http://managinghumans.com) — Book
