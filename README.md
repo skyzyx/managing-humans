@@ -24,7 +24,7 @@
 * [Shields Down](http://randsinrepose.com/archives/shields-down/) — Happy people don’t leave jobs they love
 * [Why we don’t speak up at work](https://blog.knowyourcompany.com/why-we-don-t-speak-up-at-work-94abeb1c8f36#.jtmc1os41)
 
-# 1:1s
+# 1:1s ([cache](https://www.evernote.com/pub/skyzyx/11s))
 * [The Update, The Vent, and The Disaster](http://randsinrepose.com/archives/the-update-the-vent-and-the-disaster/) — A distinct lack of drama
 * [Friction, Pain, and Failure](http://randsinrepose.com/archives/friction-pain-and-failure/) — Then consequences will become obvious
 * [You’re Not Listening](http://randsinrepose.com/archives/youre-not-listening/) — The world knows a lot more than you
