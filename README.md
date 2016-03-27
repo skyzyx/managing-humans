@@ -10,7 +10,7 @@
 * [Free Electron](http://randsinrepose.com/archives/free-electron/) — The single most productive engineer
 * [We’re Doomed](http://randsinrepose.com/archives/were-doomed/) — Software development inflection points
 
-# Managing Humans
+# Managing Humans ([cache](https://www.evernote.com/pub/skyzyx/managinghumans))
 * [Managing Humans](http://managinghumans.com) — Book
 * [The Rands Test](http://randsinrepose.com/archives/the-rands-test/) — Start here
 * [A Toxic Paradox](http://randsinrepose.com/archives/a-toxic-paradox/) — Real change is hard
