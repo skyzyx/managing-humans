@@ -32,7 +32,7 @@
 * [Triggers](http://randsinrepose.com/archives/triggers/) — Blind, piercing rage
 * [No Surprises](http://randsinrepose.com/archives/no-surprises/) — What you need to do next
 
-# Culture, Teams, Mentorship
+# Culture, Teams, Mentorship ([cache](https://www.evernote.com/pub/skyzyx/cultureteamsmentorship))
 * [Someone is Coming to Eat You](http://randsinrepose.com/archives/someone-is-coming-to-eat-you/) — Faster than you
 * [I Have a Hunch](http://randsinrepose.com/archives/i-have-a-hunch/) — We miss engineering
 * [Seven Plus or Minus Three](http://randsinrepose.com/archives/seven-plus-or-minus-three/) — Avoidable high fructose random shit minutes
