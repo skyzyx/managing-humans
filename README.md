@@ -43,6 +43,7 @@
 * [Microaggression and Management](https://web.archive.org/web/20140405220327/https://medium.com/about-work/65d4740f7a2f)
 * [Some notes on culture](http://ataussig.com/post/32402969166/some-notes-on-culture)
 * [What Google Taught Me About Scaling Engineering Teams](http://www.theeffectiveengineer.com/blog/what-i-learned-from-googles-engineering-culture)
+* [The Art of Recognizing Good Ideas (And why managers are so bad at it)](http://www.theatlantic.com/business/archive/2016/06/adam-grant-aspen/489056/)
 
 # Hiring
 * [A Glimpse and a Hook](http://randsinrepose.com/archives/a-glimpse-and-a-hook/) — You've got 30 seconds
