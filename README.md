@@ -23,6 +23,8 @@
 * [The Wolf](http://randsinrepose.com/archives/the-wolf/) — Dictating their own terms
 * [Shields Down](http://randsinrepose.com/archives/shields-down/) — Happy people don’t leave jobs they love
 * [Why we don’t speak up at work](https://blog.knowyourcompany.com/why-we-don-t-speak-up-at-work-94abeb1c8f36#.jtmc1os41)
+* [Who I want to work for](https://medium.com/@keavy/who-i-want-to-work-for-b04ce972c202)
+* [The 12 Signs: How to know when you’re slowly but surely becoming a bad manager](https://m.signalvnoise.com/the-12-signs-how-to-know-when-youre-slowly-but-surely-becoming-a-bad-manager-82fd5baff33d)
 
 # 1:1s ([cache](https://www.evernote.com/pub/skyzyx/11s))
 * [The Update, The Vent, and The Disaster](http://randsinrepose.com/archives/the-update-the-vent-and-the-disaster/) — A distinct lack of drama
