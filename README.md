@@ -25,6 +25,7 @@
 * [Why we don’t speak up at work](https://blog.knowyourcompany.com/why-we-don-t-speak-up-at-work-94abeb1c8f36#.jtmc1os41)
 * [Who I want to work for](https://medium.com/@keavy/who-i-want-to-work-for-b04ce972c202)
 * [The 12 Signs: How to know when you’re slowly but surely becoming a bad manager](https://m.signalvnoise.com/the-12-signs-how-to-know-when-youre-slowly-but-surely-becoming-a-bad-manager-82fd5baff33d)
+* [How to deliver negative feedback well: The 4 things that good managers do (that bad managers don’t)](https://blog.knowyourcompany.com/how-to-deliver-negative-feedback-well-the-4-things-that-good-managers-do-that-bad-managers-2c02b51c9c48)
 
 # 1:1s ([cache](https://www.evernote.com/pub/skyzyx/11s))
 * [The Update, The Vent, and The Disaster](http://randsinrepose.com/archives/the-update-the-vent-and-the-disaster/) — A distinct lack of drama
@@ -63,7 +64,11 @@
 * [The Twinge](http://randsinrepose.com/archives/the-twinge/) — Amorphous moments of clarity
 * [The Screw-Me Scenario](http://randsinrepose.com/archives/the-screwme-scenario/) — Paranoia is a lot of work
 * [Agenda Detection](http://randsinrepose.com/archives/agenda-detection/) — Players and pawns. Pros and cons.
+* [New managers, 7 things to consider when you run your first team meeting](https://blog.knowyourcompany.com/new-managers-heres-how-to-run-your-first-team-meeting-77bb6d7e66b)
 
 # Managing Crises
 * [The Crisis and the Creative](http://randsinrepose.com/archives/the-crisis-and-the-creative/) — Investments in an uncertain future
 * [A Deep Breath](http://randsinrepose.com/archives/a-deep-breath/) — A deliberate moment of consideration
+
+# Other
+* [How do you become a bad boss? Make the little trade-offs](https://blog.knowyourcompany.com/how-to-become-a-bad-boss-make-the-little-trade-offs-70e8c7193ddf)
