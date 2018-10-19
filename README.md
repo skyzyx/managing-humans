@@ -1,3 +1,10 @@
+# Step 1: Subscribe to these blogs, and read everything they post
+
+Much of what is linked here is from these two sites.
+
+* [Rands in Repose](http://randsinrepose.com)
+* [Know Your Company](https://blog.knowyourcompany.com)
+
 # Being Geek ([cache](https://www.evernote.com/pub/skyzyx/beinggeek))
 * [Being Geek](http://beinggeek.com) — Book
 * [Stables and Volatiles](http://randsinrepose.com/archives/stables-and-volatiles/) — Take crazy risks
