@@ -1,4 +1,4 @@
-# Step 1: Subscribe to these blogs, and read everything they post
+# Subscribe to these blogs, and read everything they post
 
 Much of what is linked here is from these two sites.
 
