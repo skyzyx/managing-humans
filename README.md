@@ -31,6 +31,7 @@ Much of what is linked here is from these two sites.
 * [Shields Down](http://randsinrepose.com/archives/shields-down/) — Happy people don’t leave jobs they love
 * [Why we don’t speak up at work](https://blog.knowyourcompany.com/why-we-don-t-speak-up-at-work-94abeb1c8f36#.jtmc1os41)
 * [Who I want to work for](https://medium.com/@keavy/who-i-want-to-work-for-b04ce972c202)
+* [How do you become a bad boss? Make the little trade-offs](https://blog.knowyourcompany.com/how-to-become-a-bad-boss-make-the-little-trade-offs-70e8c7193ddf)
 * [How to know when you’re slowly but surely becoming a bad manager](https://m.signalvnoise.com/the-12-signs-how-to-know-when-youre-slowly-but-surely-becoming-a-bad-manager-82fd5baff33d) — The 12 signs
 * [How to deliver negative feedback well](https://blog.knowyourcompany.com/how-to-deliver-negative-feedback-well-the-4-things-that-good-managers-do-that-bad-managers-2c02b51c9c48) — The 4 things that good managers do (that bad managers don’t)
 
@@ -41,6 +42,7 @@ Much of what is linked here is from these two sites.
 * [Lost in Translation](http://randsinrepose.com/archives/lost-in-translation/) — Learn schmearn. I'm a genius.
 * [Triggers](http://randsinrepose.com/archives/triggers/) — Blind, piercing rage
 * [No Surprises](http://randsinrepose.com/archives/no-surprises/) — What you need to do next
+* [10 Mistakes You Should Avoid During Your One on One Meetings](https://www.fellow.app/blog/2019/10-mistakes-you-should-avoid-during-one-on-one-meetings/)
 
 # Culture, Teams, Mentorship ([cache](https://www.evernote.com/pub/skyzyx/cultureteamsmentorship))
 * [Someone is Coming to Eat You](http://randsinrepose.com/archives/someone-is-coming-to-eat-you/) — Faster than you
@@ -54,6 +56,9 @@ Much of what is linked here is from these two sites.
 * [Some notes on culture](http://ataussig.com/post/32402969166/some-notes-on-culture)
 * [What Google Taught Me About Scaling Engineering Teams](http://www.theeffectiveengineer.com/blog/what-i-learned-from-googles-engineering-culture)
 * [Why Managers Are So Bad at Recognizing Good Ideas](http://www.theatlantic.com/business/archive/2016/06/adam-grant-aspen/489056/)
+
+# Communication
+* [The five types of communication problems that destroy company morale](https://qz.com/work/1587170/the-five-types-of-communication-problems-that-destroy-company-morale/)
 
 # Hiring
 * [A Glimpse and a Hook](http://randsinrepose.com/archives/a-glimpse-and-a-hook/) — You've got 30 seconds
@@ -76,6 +81,3 @@ Much of what is linked here is from these two sites.
 # Managing Crises
 * [The Crisis and the Creative](http://randsinrepose.com/archives/the-crisis-and-the-creative/) — Investments in an uncertain future
 * [A Deep Breath](http://randsinrepose.com/archives/a-deep-breath/) — A deliberate moment of consideration
-
-# Other
-* [How do you become a bad boss? Make the little trade-offs](https://blog.knowyourcompany.com/how-to-become-a-bad-boss-make-the-little-trade-offs-70e8c7193ddf)
