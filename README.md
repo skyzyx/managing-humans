@@ -1,6 +1,4 @@
-<center>
-![Radical candor](images/radical-candor.jpg)
-</center>
+![Radical candor](https://media.githubusercontent.com/media/skyzyx/managing-humans/master/images/radical-candor.jpg)
 
 # Subscribe to these blogs, and read everything they post
 
