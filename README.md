@@ -1,3 +1,7 @@
+<center>
+![Radical candor](images/radical-candor.jpg)
+</center>
+
 # Subscribe to these blogs, and read everything they post
 
 Much of what is linked here is from these two sites.
