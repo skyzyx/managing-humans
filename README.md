@@ -61,6 +61,8 @@ Much of what is linked here is from these two sites.
 
 # Communication
 * [The five types of communication problems that destroy company morale](https://qz.com/work/1587170/the-five-types-of-communication-problems-that-destroy-company-morale/)
+* [The Basecamp Guide to Internal Communication](https://basecamp.com/guides/how-we-communicate)
+* [Group Chat: The Best Way to Totally Stress Out Your Team](https://basecamp.com/guides/group-chat-problems)
 
 # Hiring
 * [A Glimpse and a Hook](http://randsinrepose.com/archives/a-glimpse-and-a-hook/) — You've got 30 seconds
