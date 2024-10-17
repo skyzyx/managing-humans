@@ -5,7 +5,7 @@
 Much of what is linked here is from these two sites.
 
 * [Rands in Repose](https://randsinrepose.com)
-* [Know Your Company](https://blog.knowyourcompany.com)
+* [Canopy](https://canopy.is/blog/) (formerly _Know Your Company_, _Know Your Team_)
 
 # Being Geek
 * [Being Geek](https://www.amazon.com/-/dp/0596155409) — Book
